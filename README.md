@@ -10,6 +10,7 @@ A collection of useful Python utilities showcasing various programming concepts.
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/pyut.git
+git clone https://github.com/YonasGr/pyut.git
 cd pyut
 pip install -r requirements.txt
+python main.py
